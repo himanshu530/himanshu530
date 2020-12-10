@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 Hi, I'm [Himanshu Tomer](https://github.com/himanshu530), a Data Science Enthusiast 🚀 , Web Develeoper ✨ & UI/UX Designer.Currently I'm pursuing my B.E. Computer Engineering 💻[@Thapar Institute of Engineering & Technology](https://www.thapar.edu).I am quite passionate about Machine Learning, and enjoy working on datasets from [Kaggle](https://www.kaggle.com/). Also I'm working at tech based Startup,📲 [@PixxelPanda](https://www.pixxelpanda.in/).  
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/6d/79/2b/6d792b2adaaeee78fa3cd2d838a6ffb0.gif" width="500" height="320" />
   
   [Check Out this playist 🎼🎧](https://open.spotify.com/search/chilled%20cow)
   
