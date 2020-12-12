@@ -35,7 +35,7 @@ Hi, I'm [Himanshu Tomer](https://github.com/himanshu530), a Data Science Enthusi
 - 📫 Get In Touch: [@Himanshu](https://api.whatsapp.com/send?phone=9422382075&text=Hey!%20Thank%20you%20for%20contacting%20.%20Will%20reply%20shortly);
 - 📝[Check this Out](https://drive.google.com/file/d/1yb5cAnVEmKlFFnFl3tfO_txYnp6E-cR5/view?usp=sharing)
 
-**Get in touch**
+
 <a href="https://twitter.com/HimanshuTomer10">
   <img align="left" alt="Himanshu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
