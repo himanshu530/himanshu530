@@ -29,7 +29,7 @@ Hi, I'm [Himanshu Tomer](https://github.com/himanshu530), a Data Science Enthusi
   
 **Something More ?**
 
-- ⚡🏽‍💻 I’m a bit of a freak for evidence-based analysis. I strongly believe in data;
+- ⚡🏽‍💻 Strongly believe in data;
 - 🌱 I’m currently learning OpenCV and NLP; 
 - 💬 Always ready to colab for data science related stuff. Lets create together;
 - 📫 Get In Touch: [@Himanshu](https://api.whatsapp.com/send?phone=9422382075&text=Hey!%20Thank%20you%20for%20contacting%20.%20Will%20reply%20shortly);
